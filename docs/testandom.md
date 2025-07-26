@@ -1,1 +1,0 @@
-crikacao do caos
