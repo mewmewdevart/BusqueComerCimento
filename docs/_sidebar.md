@@ -1,4 +1,5 @@
-<!-- markdownlint-disable first-line-h1 -->
+- Introdução
+  - [Boas novas, Terraqueo!](README.md)
 
 - SEO
 
@@ -7,7 +8,3 @@
   - [SEO Off-Page e Local](seo-offpage-e-local.md)
   - [SEO Técnico](seo-tecnico.md)
   - [SEO Mobile, Black Hat e Checklist](seo-mobile-e-blackhat-checklist.md)
-
-- Test
-
-  - [Entendendo e Otimizando para o Google](seo-01.md)
