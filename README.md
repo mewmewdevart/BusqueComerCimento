@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/BusqueComerCimento?color=AB47BC" />
-  <img alt="License" src="https://img.shields.io/github/license/mewmewdevart/BusqueComerCimento?color=AB47BC" />
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/BusqueComerCimento?color=4971FF" />
+  <img alt="License" src="https://img.shields.io/github/license/mewmewdevart/BusqueComerCimento?color=4971FF" />
 </p>
 
 
 Este projeto tem como objetivo centralizar e documentar conhecimentos adquiridos em desenvolvimento e outras áreas de estudo. A documentação é construída com o [Docsify](https://docsify.js.org/), o que permite uma navegação simples e prática diretamente pelos arquivos Markdown.
 
 <p align="center">  
-  Desenvolvido com amor 💜 por Larissa**  
+  Desenvolvido com amor 💙 por MewMew!**  
 </p>
