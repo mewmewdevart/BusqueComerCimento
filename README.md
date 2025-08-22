@@ -1,37 +1,18 @@
-# BusqueComerCimento
+<h1 align="center"> BusqueComerCimento </h1>
 
-📄👽 | Repositório para organizar e compartilhar meus aprendizados.
+<p align="center">  
+  Repositório criado para organizar e compartilhar meus aprendizados.  
+</p>
 
-## Rodando Localmente
 
-Para visualizar e trabalhar com a documentação do projeto localmente, você precisa ter o **Node.js** e o **npm** instalados na sua máquina.
+<p align="center">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/BusqueComerCimento?color=AB47BC" />
+  <img alt="License" src="https://img.shields.io/github/license/mewmewdevart/BusqueComerCimento?color=AB47BC" />
+</p>
 
-Este projeto utiliza o **Docsify**, um gerador de documentação que serve o conteúdo diretamente dos arquivos Markdown.
 
-### 1\. Instalar o Docsify
+Este projeto tem como objetivo centralizar e documentar conhecimentos adquiridos em desenvolvimento e outras áreas de estudo. A documentação é construída com o [Docsify](https://docsify.js.org/), o que permite uma navegação simples e prática diretamente pelos arquivos Markdown.
 
-Primeiro, instale a ferramenta de linha de comando do Docsify globalmente. Por ser uma instalação global, você precisará de permissões de superusuário, então use o `sudo`:
-
-```bash
-sudo npm i docsify-cli -g
-```
-
-Você será solicitado a digitar sua senha para completar a instalação.
-
-### 2\. Executar o Servidor
-
-Após a instalação, navegue até a raiz do projeto (onde o arquivo `index.html` e o diretório `docs` estão localizados) e use o comando `docsify serve` para iniciar o servidor local:
-
-```bash
-docsify serve docs
-```
-
-### 3\. Visualizar no Navegador
-
-O servidor iniciará, e você poderá acessar a documentação no seu navegador. Abra a seguinte URL:
-
-```
-http://localhost:3000
-```
-
-Qualquer alteração que você fizer nos arquivos Markdown dentro da pasta `docs` será atualizada automaticamente no navegador, sem a necessidade de recarregar a página.
+<p align="center">  
+  Desenvolvido com amor 💜 por Larissa**  
+</p>
